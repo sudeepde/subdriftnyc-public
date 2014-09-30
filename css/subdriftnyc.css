@@ -1,0 +1,70 @@
+@import url('bootstrap.min.css');
+	
+body{
+	background-color:white;
+}
+
+.row {
+	display:table;
+}
+
+#footer {
+	background-color:white;
+	height:60px;
+}
+
+#row1{
+    background:url('../assets/photos/midtown_2_bg.jpg') no-repeat center center;
+    background-size:cover;
+}
+
+#row2{
+	background-color:white;
+}
+
+#row3{
+    background:url('../assets/photos/comedy_bg.jpg') no-repeat center center;
+    background-size:cover;	
+}
+
+#row4{
+	background-color:white;
+}
+
+#row5{
+    background:url('../assets/photos/mc_bg.jpg') no-repeat center center;
+    background-size:cover;	
+}
+
+.center {
+    display:table-cell;
+    vertical-align:middle;
+    float:none;
+}
+
+.text-center{
+	text-align:center;
+}
+
+.img-side{
+	height:300px;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.col-fixed-height{
+	height:500px;
+}
+
+.col-fixed-height-about{
+	height:300px;
+}
+
+#about-title{
+    background:url('../assets/photos/mc_bg.jpg') no-repeat center center;
+    background-size:cover;
+}
